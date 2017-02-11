@@ -1,0 +1,3 @@
+manual\vcredist140\vcredist140.nuspec
+manual\vcredist2015\vcredist2015.nuspec
+manual\vcredist2017\vcredist2017.nuspec
